@@ -1,6 +1,8 @@
 ### Hi there 👋
 <img align='right' src='https://media.discordapp.net/attachments/442953632929808394/834900190250270761/chizudance.gif' width='200"'>
 
+[![GitHub followers](https://img.shields.io/github/followers/SMiles02?style=social)](https://github.com/SMiles02?tab=followers)
+
 <!--
 **SMiles02/SMiles02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
