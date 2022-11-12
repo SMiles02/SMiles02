@@ -7,7 +7,7 @@
 
 Social:
 - [LinkedIn](https://www.linkedin.com/in/suneetmahajan)
-- [Codeforces](https://codeforces.com/profile/ScarletS)
+- [![Codeforces](https://badges.joonhyung.xyz/codeforces/ScarletS.svg)](https://codeforces.com/profile/ScarletS)
 - [AtCoder](https://atcoder.jp/users/ScarletS)
 - [CodeChef](https://www.codechef.com/users/ScarletS)
 
